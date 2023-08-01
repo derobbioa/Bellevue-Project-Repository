@@ -1,5 +1,5 @@
 print("Welcome to the Fiber Optic Installation Program!")
-company_name = input("Enter your company name: ")
+company_name = input("ENTER YOUR COMPANY NAME. ")
 feet_of_fiber = float(input("Enter the number of feet of fiber optic to be installed: "))
 cost_per_feet = 0.87
 total_cost = feet_of_fiber * cost_per_feet
